@@ -1,1 +1,1 @@
-Studyng C++ repo
+Studyng C++ repository
